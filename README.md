@@ -1,100 +1,137 @@
-# 📊 Business Analytics & Performance Marketing Portfolio
+# 📊 Business Analytics & Digital Marketing Analytics Portfolio
 
-Welcome to my Business Analytics Portfolio! I am an MBA student specializing in Marketing with Business Analytics as a minor. This repository showcases my projects in business analytics, digital marketing analytics, performance marketing, data visualization, and data-driven decision-making.
+Welcome to my Business Analytics Portfolio! I am an MBA student specializing in Marketing with Business Analytics as a minor. This repository showcases my practical projects in sales analytics, customer analytics, business intelligence, performance marketing, web analytics, and SEO analytics.
 
-My focus is on transforming raw data into actionable business insights, measuring marketing effectiveness, optimizing advertising performance, and supporting strategic business decisions through data.
+My objective is to transform raw data into actionable business insights, evaluate business performance, optimize marketing campaigns, understand customer behaviour, and support data-driven decision-making.
 
 ## 👨‍💻 About Me
 
-I am passionate about Business Analytics, Digital Marketing, and Performance Marketing. I enjoy analyzing business data, evaluating campaign performance, understanding customer behavior, and identifying opportunities to improve marketing efficiency and business growth.
+I am passionate about Business Analytics, Digital Marketing, and Performance Marketing. I use analytical tools to explore business problems, identify trends, measure performance, and develop actionable recommendations.
 
-Through practical projects, I aim to combine analytical thinking with marketing strategy to understand what drives conversions, customer acquisition, revenue, and profitability.
+My portfolio combines technical analysis with business understanding, focusing on how organizations can improve sales performance, customer retention, marketing effectiveness, website conversions, and organic search visibility.
 
 ## 🛠️ Technical Skills & Tools
 
-### Data Analytics & Business Intelligence
 - **Programming:** Python
 - **Python Libraries:** NumPy, pandas, Matplotlib, Seaborn
 - **Database Management:** SQL
-- **Business Intelligence:** Microsoft Power BI
-- **Spreadsheet Analysis:** Microsoft Excel
+- **Business Intelligence:** Microsoft Power BI, DAX
+- **Spreadsheet Analytics:** Microsoft Excel, PivotTables, Power Query
+- **Performance Marketing:** Google Ads, campaign performance analysis, budget optimization
+- **Web Analytics:** Google Analytics 4 (GA4), Google Tag Manager (GTM)
+- **SEO Analytics:** Google Search Console, keyword analysis, organic performance analysis
 - **Version Control:** Git and GitHub
-
-### Digital & Performance Marketing
-- Search Engine Optimization (SEO)
-- Google Ads and paid search campaign analysis
-- Performance Marketing and Campaign Optimization
-- Google Analytics 4 (GA4)
-- Google Tag Manager (GTM) and conversion tracking
-- Marketing Funnel and Conversion Rate Analysis
-- Customer Acquisition Cost (CAC), Cost per Acquisition (CPA), and Return on Ad Spend (ROAS)
-- Campaign Attribution and Marketing ROI Analysis
-
-*Tools and platforms will be included in project deliverables as they are used and implemented.*
 
 ## 📂 Portfolio Projects
 
-### 1. Business Analytics Projects
+### 1. Sales Analytics
 
-| Project | Business Objective | Tools |
-|---|---|---|
-| Sales & Profitability Analysis | Identify profitable products, regions, and customer segments | SQL, Excel, Power BI |
-| Customer Segmentation | Understand customer behavior and purchasing patterns | Python, pandas, SQL |
-| Business Performance Dashboard | Monitor KPIs and business performance | Power BI, Excel |
-| Demand Forecasting | Analyze historical sales and estimate future demand | Python, pandas, Matplotlib |
+| No. | Project | Business Objective | Tools |
+|---|---|---|---|
+| 01 | Sales Performance Analysis | Evaluate sales trends, growth, and performance drivers | Excel, SQL, Python |
+| 02 | Sales & Profitability Analysis | Identify profitable products, regions, and customer segments | SQL, Power BI |
+| 03 | Regional Sales Analysis | Compare sales performance across geographic regions | Excel, Power BI |
+| 04 | Product Performance & Product Mix Analysis | Evaluate product contribution and profitability | Python, pandas |
+| 05 | Revenue Trend & Growth Analysis | Analyze revenue patterns and growth rates | SQL, Excel |
+| 06 | Sales KPI Dashboard | Monitor revenue, profit, growth, and sales targets | Power BI, DAX |
 
-### 2. Digital Marketing & Performance Marketing Projects
+### 2. Customer Analytics & Business Intelligence
 
-| Project | Business Objective | Tools |
-|---|---|---|
-| Google Ads Campaign Performance Analysis | Evaluate campaign efficiency, CPC, CPA, conversions, and ROAS | Excel, Python, Power BI |
-| Marketing Funnel Analysis | Identify drop-off points from impressions and clicks to leads or purchases | GA4, SQL, Power BI |
-| Paid Search Keyword Analysis | Evaluate keywords using CTR, CPC, conversion rate, and CPA | Excel, Python |
-| Advertising Budget Optimization | Compare campaign performance and recommend budget allocation | Python, Excel, Power BI |
-| Landing Page Conversion Analysis | Identify opportunities to improve landing page conversion rates | GA4, Excel, Power BI |
-| Customer Acquisition Cost & ROAS Dashboard | Measure acquisition efficiency and advertising returns | SQL, Excel, Power BI |
-| SEO Performance Analytics | Analyze organic clicks, impressions, CTR, average position, and landing-page performance | Google Search Console, Excel, Power BI |
-| Marketing Attribution Analysis | Compare channel contributions to conversions and revenue | GA4, SQL, Python |
-| A/B Testing & Campaign Experimentation | Evaluate whether a campaign or landing-page variation improves conversion performance | Python, pandas, statistical analysis |
+| No. | Project | Business Objective | Tools |
+|---|---|---|---|
+| 07 | Customer Segmentation Analysis | Group customers by behaviour and business value | Python, SQL |
+| 08 | RFM Analysis | Segment customers by recency, frequency, and monetary value | Python, pandas |
+| 09 | Customer Retention & Cohort Analysis | Understand repeat purchasing and retention trends | SQL, Python |
+| 10 | Customer Churn Analysis | Identify churn patterns and potential risk factors | Python, Power BI |
+| 11 | Customer Lifetime Value Analysis | Estimate the long-term economic value of customers | Python, Excel |
+| 12 | Customer Purchase Behaviour Analysis | Explore purchasing patterns and customer preferences | SQL, Power BI |
 
-*Projects may use public datasets, synthetic campaign data, or actual campaign data where access and permissions allow. Results and implementation status will be documented transparently.*
+### 3. Performance Marketing & Paid Advertising Analytics
 
-## 📈 Performance Marketing KPIs I Analyze
+| No. | Project | Business Objective | Tools |
+|---|---|---|---|
+| 13 | Google Ads Campaign Performance Analysis | Evaluate advertising costs, conversions, and campaign efficiency | Excel, Python, Power BI |
+| 14 | Paid Search Keyword Performance Analysis | Identify high-performing keywords and optimization opportunities | Excel, SQL, Python |
+| 15 | Advertising Budget Allocation & Optimization | Recommend budget distribution across campaigns | Python, Excel, Power BI |
+| 16 | Customer Acquisition Cost & ROAS Dashboard | Evaluate acquisition costs and attributed advertising revenue | SQL, Excel, Power BI |
+| 17 | Marketing Campaign A/B Testing | Evaluate campaign variations using statistical methods | Python, pandas |
+| 18 | Paid Media Campaign Comparison | Compare performance across advertising campaigns and channels | Excel, Power BI |
+| 19 | Meta Ads Performance Analysis | Evaluate paid social campaign performance | Excel, Python |
+| 20 | Marketing ROI & Profitability Analysis | Connect marketing investment with business returns | Python, SQL, Excel |
 
-- **Impressions:** Number of times an advertisement is displayed.
-- **Click-Through Rate (CTR):** Percentage of impressions that generate clicks.
-- **Cost per Click (CPC):** Average cost paid per click.
-- **Conversion Rate (CVR):** Percentage of relevant clicks or sessions that result in a conversion, using a clearly defined denominator.
-- **Cost per Acquisition (CPA):** Average advertising cost per acquisition.
-- **Return on Ad Spend (ROAS):** Attributed advertising revenue divided by advertising spend.
-- **Customer Acquisition Cost (CAC):** Cost of acquiring a customer, defined according to the business's chosen cost scope.
-- **Marketing ROI:** Return relative to marketing investment, using an explicitly defined formula.
-- **Organic Search Performance:** Clicks, impressions, CTR, and average search position.
+### 4. Web Analytics
 
-## 🔍 Analytical Approach
+| No. | Project | Business Objective | Tools |
+|---|---|---|---|
+| 21 | Website Traffic & User Behaviour Analysis | Understand traffic sources, engagement, and website behaviour | GA4, Power BI |
+| 22 | Marketing Funnel Conversion Analysis | Identify drop-offs across the customer journey | GA4, SQL, Power BI |
+| 23 | Landing Page Conversion Rate Analysis | Evaluate landing page performance and conversion opportunities | GA4, Excel, Python |
+| 24 | Marketing Channel Attribution Analysis | Compare channel contributions to conversions | GA4, SQL, Python |
+| 25 | Conversion Tracking & Measurement Audit | Review event definitions, tag implementation, and tracking quality | GTM, GA4 |
+| 26 | Lead Generation Funnel & Lead Quality Analysis | Analyze lead generation efficiency and lead quality | Excel, SQL, Power BI |
 
-My project workflow follows a structured, business-oriented approach:
+### 5. SEO & Organic Marketing Analytics
 
-1. **Business Understanding:** Define the business problem and marketing objective.
-2. **Data Collection:** Identify relevant datasets from public sources, analytics exports, or campaign reports.
-3. **Data Cleaning:** Handle missing values, duplicates, inconsistent formats, and data quality issues.
-4. **Exploratory Data Analysis:** Identify trends, patterns, and performance variations.
-5. **KPI Analysis:** Calculate and validate relevant business and marketing metrics.
-6. **Visualization:** Build clear charts, reports, and interactive Power BI dashboards.
-7. **Performance Evaluation:** Compare campaigns, channels, keywords, customer segments, or landing pages.
-8. **Business Recommendations:** Identify evidence-based opportunities to improve efficiency and profitability.
-9. **Documentation:** Record assumptions, methodology, limitations, and findings.
+| No. | Project | Business Objective | Tools |
+|---|---|---|---|
+| 27 | Google Search Console Performance Analysis | Analyze organic clicks, impressions, CTR, and search position | GSC, Excel, Power BI |
+| 28 | SEO Keyword & Search Intent Analysis | Evaluate keyword opportunities and search intent | Excel, Python |
+| 29 | Organic Landing Page Performance Analysis | Evaluate organic search traffic and landing page outcomes | GSC, GA4, Power BI |
+| 30 | Technical SEO Audit & Issue Prioritization | Identify and prioritize technical SEO issues | Screaming Frog, Excel, GSC |
+| 31 | Organic Traffic Growth Analysis | Evaluate organic search growth and landing page trends | GSC, GA4, Excel |
+| 32 | SEO Content Performance Analysis | Analyze content visibility, clicks, CTR, and engagement | GSC, GA4, Power BI |
 
-## 🎯 Business Questions I Explore
+## 📈 Key Metrics I Analyze
 
-- Which advertising campaigns generate the most conversions at an acceptable acquisition cost?
-- Which keywords generate valuable traffic rather than clicks alone?
-- Where do potential customers drop off in the marketing funnel?
-- Which channels contribute to customer acquisition and revenue?
-- How can advertising budgets be allocated more efficiently?
-- Which landing pages show opportunities for conversion rate optimization?
-- How do organic search and paid search contribute to overall digital performance?
-- How can businesses connect marketing spend with revenue and profitability?
+### Sales Analytics
+- Revenue and revenue growth
+- Gross profit and profit margin
+- Average order value
+- Regional and product performance
+
+### Customer Analytics
+- Customer retention rate
+- Recency, frequency, and monetary value
+- Customer lifetime value
+- Churn rate and customer segments
+
+### Performance Marketing
+- Impressions, clicks, and click-through rate (CTR)
+- Cost per click (CPC)
+- Conversion rate (CVR)
+- Cost per acquisition (CPA)
+- Customer acquisition cost (CAC)
+- Return on ad spend (ROAS)
+- Marketing ROI
+
+### Web Analytics
+- Sessions and engaged sessions
+- Traffic acquisition channels
+- Landing page performance
+- Funnel conversion rates
+- Lead and purchase conversions
+
+### SEO & Organic Marketing
+- Organic clicks and impressions
+- Organic click-through rate
+- Average search position
+- Keyword and landing page performance
+- Organic traffic growth
+
+*Metric definitions, denominators, attribution windows, and calculation methods will be documented in individual projects.*
+
+## 🔍 Analytical Workflow
+
+1. **Business Understanding:** Define the problem, objectives, and business questions.
+2. **Data Collection:** Identify relevant public datasets or authorized business data.
+3. **Data Validation:** Check missing values, duplicates, and data inconsistencies.
+4. **Data Preparation:** Clean and transform data using Python, SQL, or Excel.
+5. **Exploratory Data Analysis:** Identify patterns, trends, and relationships.
+6. **KPI Analysis:** Calculate relevant business and marketing metrics.
+7. **Data Visualization:** Build charts, reports, and interactive Power BI dashboards.
+8. **Business Interpretation:** Explain findings in the context of the business problem.
+9. **Recommendations:** Propose evidence-based opportunities for improvement.
+10. **Documentation:** Record methodology, findings, assumptions, and limitations.
 
 ## 📁 Repository Structure
 
@@ -103,34 +140,65 @@ business-analytics-portfolio/
 │
 ├── README.md
 │
-├── business-analytics/
+├── sales-analytics/
+│   ├── sales-performance-analysis/
 │   ├── sales-profitability-analysis/
+│   ├── regional-sales-analysis/
+│   └── sales-kpi-dashboard/
+│
+├── customer-analytics-business-intelligence/
 │   ├── customer-segmentation/
-│   └── business-performance-dashboard/
+│   ├── rfm-analysis/
+│   ├── retention-cohort-analysis/
+│   ├── customer-churn-analysis/
+│   └── customer-lifetime-value/
 │
-├── performance-marketing/
-│   ├── google-ads-performance-analysis/
-│   ├── marketing-funnel-analysis/
+├── performance-marketing-paid-advertising/
+│   ├── google-ads-performance/
 │   ├── keyword-performance-analysis/
-│   ├── advertising-budget-optimization/
-│   ├── landing-page-conversion-analysis/
-│   └── customer-acquisition-roas-dashboard/
+│   ├── budget-optimization/
+│   ├── cac-roas-dashboard/
+│   ├── meta-ads-analysis/
+│   └── marketing-ab-testing/
 │
-└── seo-analytics/
-    ├── search-console-performance/
-    └── organic-landing-page-analysis/
+├── web-analytics/
+│   ├── website-traffic-analysis/
+│   ├── marketing-funnel-analysis/
+│   ├── landing-page-analysis/
+│   ├── channel-attribution/
+│   └── conversion-tracking-audit/
+│
+└── seo-organic-marketing-analytics/
+    ├── search-console-analysis/
+    ├── keyword-intent-analysis/
+    ├── organic-landing-pages/
+    ├── technical-seo-audit/
+    ├── organic-traffic-growth/
+    └── seo-content-performance/
 ```
 
-## 💼 Career Interests
+## 📌 Project Documentation Standards
 
-I am interested in opportunities across:
+Each completed project will include, where applicable:
 
-- Business Analytics and Data Analytics
-- Business Intelligence and Reporting
-- Marketing Analytics
-- Performance Marketing Analytics
-- Paid Media and Campaign Optimization
-- SEO Analytics and Conversion Rate Optimization
+- Business problem and analytical objectives
+- Dataset source, description, and licensing information
+- Data cleaning and preparation steps
+- SQL queries, Python notebooks, Excel files, or Power BI deliverables
+- Charts, dashboards, and key findings
+- Business recommendations and practical applications
+- Assumptions, limitations, and reproducibility instructions
+
+## 🎯 Career Interests
+
+- Business Analyst
+- Data Analyst
+- Business Intelligence Analyst
+- Marketing Analyst
+- Performance Marketing Analyst
+- Digital Marketing Analyst
+- SEO Analyst
+- Web Analytics Analyst
 
 ## 📬 Connect With Me
 
@@ -139,4 +207,8 @@ I am interested in opportunities across:
 
 ---
 
-*This portfolio represents my continuous learning journey in Business Analytics and Performance Marketing, with an emphasis on measurable outcomes, analytical rigor, and practical business applications.*
+## Disclaimer
+
+This portfolio is intended for educational and professional development. Projects may use public datasets, appropriately licensed data, or clearly labelled synthetic data. Simulated results will not be presented as actual business outcomes.
+
+**Turning Data into Insights. Turning Insights into Action.**
