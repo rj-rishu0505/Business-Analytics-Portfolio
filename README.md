@@ -134,8 +134,8 @@ I am interested in opportunities across:
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [www.linkedin.com/in/rj-rishi]
-- **Email:** [imrishijoc@gmail.com]
+- **LinkedIn:** www.linkedin.com/in/rj-rishi
+- **Email:** imrishijoc@gmail.com
 
 ---
 
