@@ -134,9 +134,8 @@ I am interested in opportunities across:
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [Add your LinkedIn profile URL]
-- **GitHub:** [Add your GitHub profile URL]
-- **Email:** [Add your professional email address]
+- **LinkedIn:** [www.linkedin.com/in/rj-rishi]
+- **Email:** [imrishijoc@gmail.com]
 
 ---
 
